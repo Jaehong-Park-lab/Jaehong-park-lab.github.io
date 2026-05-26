@@ -186,9 +186,7 @@ public class User {
 진짜 핵심은:
 
 - 변경될 수 있는 구현을 숨기고
-- 외부에는 안정적인 인터페이스만 공개하는 것
-
-이다. (MangKyu's Diary)
+- 외부에는 안정적인 인터페이스만 공개하는 것이다. (MangKyu's Diary)
 
 즉:
 
